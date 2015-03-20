@@ -1,24 +1,26 @@
 Materials for JAVA basics course by NeedleWare
 
-Lesson 1:
+Lesson 1: Basic JAVA constructs
 0] Development environment
     - JDK 8
     - IntelliJ IDEA
 1] HelloWorld - printing to screen
     - explain main method
     - explain basic system streams
-2] HelloSomeone - reading program arguments + IF statement
+2] ICanChange - variables + basic math operations
+    - explain basic types - short, int, long, boolean, byte, char
+3] HelloSomeone - reading program arguments + IF statement
     - explain program arguments
     - explain if-else
-3] I can count - parsing numbers + FOR loop
-    - explain basic types - short, int, long, boolean, byte, char
-4] HelloPeople - arrays + FOREACH loop + StringBuilder
+4] ICanCount - parsing numbers + FOR loop
+    - explain basic data types wrappers
+5] HelloPeople - arrays + FOREACH loop + StringBuilder
     - explain arrays
     - explain FOREACH loop
     - explain speciality of String type
-5] HowAreYouWorld - reading user console input
+6] HowAreYouWorld - reading user console input
     - explain Scanner class
-6] AreWeThereYet - while loop
+7] AreWeThereYet - while loop
 
 HW] AddingCalculator
     - create runnable class named AddingCalculator
@@ -28,9 +30,10 @@ HW] AddingCalculator
     - when no argument is provided, read user input until line that contains "q" character is read and do the
       sum calculation as well as in previous block
 
-
-Lesson 2:
+Lesson 2: (TBD)
 0] Development environment
     - IntelliJ IDEA
     - Maven
 1] Hello maven
+
+TODO: methods, access control/visibility, object relations, packages, libraries
