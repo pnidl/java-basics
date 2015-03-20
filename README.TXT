@@ -2,9 +2,8 @@ Materials for JAVA basics course by NeedleWare
 
 Lesson 1:
 0] Development environment
-    - NO IDE FOR FIRST LESSON
     - JDK 8
-    - Git
+    - IntelliJ IDEA
 1] HelloWorld - printing to screen
     - explain main method
     - explain basic system streams
@@ -20,6 +19,14 @@ Lesson 1:
 5] HowAreYouWorld - reading user console input
     - explain Scanner class
 6] AreWeThereYet - while loop
+
+HW] AddingCalculator
+    - create runnable class named AddingCalculator
+    - this class will read "n" lines of user input, where "n" is number provided as a program argument
+        - each line of user input will be an integral number
+        - after reading each number print sum of all inserted numbers on new line
+    - when no argument is provided, read user input until line that contains "q" character is read and do the
+      sum calculation as well as in previous block
 
 
 Lesson 2:
